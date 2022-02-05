@@ -14,3 +14,7 @@ INPUT1 = int(input('enter x'))
 INPUT2 = int(input('enter y'))
 complex_compute = (INPUT*INPUT2)^2
 print(complex_compute)
+
+
+#updating the master branch with var
+var = 0
