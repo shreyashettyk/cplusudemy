@@ -8,3 +8,9 @@ x = int(input('enter x'))
 y = int(input('enter y'))
 print(x*y)
 
+
+#adding the new functionality asper HIS-128
+INPUT1 = int(input('enter x'))
+INPUT2 = int(input('enter y'))
+complex_compute = (INPUT*INPUT2)^2
+print(complex_compute)

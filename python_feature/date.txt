@@ -2,6 +2,10 @@
 
 from datetime import date
 
+
 #adding changes as per HIS-132
+#adding features as per asper HIS-128
 
 today_date = date.today()
+print('Today date is ',today_date)
+
