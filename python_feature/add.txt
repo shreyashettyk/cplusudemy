@@ -1,3 +1,4 @@
-a = input('enter a')
-b = input('enter b')
-res = a+b
+a = input('enter a') #enter a
+b = input('enter b') #enter b
+res = a+b #get result
+
