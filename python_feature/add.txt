@@ -2,3 +2,5 @@ a = input('enter a') #enter a
 b = input('enter b') #enter b
 res = a+b #get result
 
+#add multiplication feat as per HIS-2228
+
