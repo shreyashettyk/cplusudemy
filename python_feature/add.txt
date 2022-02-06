@@ -24,3 +24,8 @@ var_update = 'loop'
 
 
 #changes as part of Release2.7 will be added
+divisor = eval(input('enter divisor'))
+dividend = eval(input('enter dividend'))
+quo = dividend/divisor
+rem = dividend%divisor
+print(quo,rem)
