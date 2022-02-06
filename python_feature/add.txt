@@ -21,3 +21,6 @@ var = 0
 
 #adding feature of HIS-300
 var_update = 'loop'
+
+
+#changes as part of Release2.7 will be added
