@@ -33,6 +33,11 @@ print(quo,rem)
 
 base = eval(input('enter base value'))
 exponent = eval(input('enter exponent'))
-result = base^exponent
-print('Result of  power is ', result) 
+expo_result = base^exponent  #variable name changes as JIT-1040
+print('Result of  power is ', expo_result)
+
+#JIT-1040
+
+trig = math.sin(expo_result) 
+
 
