@@ -24,3 +24,7 @@ var_update = 'loop'
 
 
 #changes as part of Release2.7 will be added
+base = eval(input('enter base value'))
+exponent = eval(input('enter exponent'))
+result = base^exponent
+print('Result of  power is ', result) 
